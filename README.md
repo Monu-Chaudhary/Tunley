@@ -3,8 +3,8 @@ ITunes like application
 
 
 **🎯 GOALS 🎯**
-By the end of this lab you will be able to...
-✅ Use table views and custom cells in your apps to display a list of data to the user.
+By the end of this lab you will be able to
+✅ Use table views and custom cells in your apps to display a list of data to the user
 ✅ Use hardcoded data models to power their app’s UI
 
 **Features**
